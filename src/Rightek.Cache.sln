@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rightek.Cache", "Rightek.Cache\Rightek.Cache.csproj", "{21C227AD-1246-482B-AAA8-5043A54A7072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rightek.Cache.Test", "Rightek.Cache.Tests\Rightek.Cache.Tests.csproj", "{5FB54D12-48BC-4418-A3DA-B0707AA9336D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C227AD-1246-482B-AAA8-5043A54A7072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C227AD-1246-482B-AAA8-5043A54A7072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C227AD-1246-482B-AAA8-5043A54A7072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C227AD-1246-482B-AAA8-5043A54A7072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB54D12-48BC-4418-A3DA-B0707AA9336D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB54D12-48BC-4418-A3DA-B0707AA9336D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB54D12-48BC-4418-A3DA-B0707AA9336D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB54D12-48BC-4418-A3DA-B0707AA9336D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A344DF7C-28E1-4683-B15E-C0DAEDC8A7FE}
+	EndGlobalSection
+EndGlobal
